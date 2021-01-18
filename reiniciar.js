@@ -1,5 +1,5 @@
 function reiniciar(){
-    if(movimientostexto===15){
+    if(movimientostexto===20){
        
        setTimeout( cuerpo.classList.add("quitar"),
        botonreiniciar.classList.remove("reiniciar")
